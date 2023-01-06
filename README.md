@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **astrolabesun/astrolabesun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a recent graduate of the University of Toronto Scarborough, and have since spent my time learning Cybersecurity and web development with the Django web framework.
+
+![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/satjia.png)
+
+![CodewarsBadge](https://www.codewars.com/users/Saskiase/badges/small)
+
