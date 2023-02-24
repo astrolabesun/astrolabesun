@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recent graduate of the University of Toronto Scarborough, and have since spent my time learning Cybersecurity and web development with the Django web framework.
-
-![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/satjia.png)
+I'm a recent graduate of the University of Toronto Scarborough, and have since spent my time learning Cybersecurity by doing rooms in TryHackMe. I have also been 
+learning web development with the Django web framework.
 
 ![CodewarsBadge](https://www.codewars.com/users/Saskiase/badges/small)
+
+![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/satjia.png)
 
