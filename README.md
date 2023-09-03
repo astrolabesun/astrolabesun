@@ -15,9 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recent graduate of the University of Toronto Scarborough, and have since spent my time learning Cybersecurity by doing rooms in TryHackMe. I have also been 
-learning web development with the Django web framework.
+I'm a recent graduate of the University of Toronto Scarborough who has also completed a Coursera specialization in Cybersecurity. But my learning has not stopped there.
 
+### What I've used:
+* Python
+* Git
+* Django
+* HTML
+* CSS
+
+### What I'm learning now:
+* Vanilla JavaScript and ReactJS
+* SQL
+* Microsoft Excel
+
+### Badges
 ![CodewarsBadge](https://www.codewars.com/users/Saskiase/badges/small)
 
 ![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/satjia.png)
