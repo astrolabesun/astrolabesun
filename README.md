@@ -25,7 +25,7 @@ I'm a recent graduate of the University of Toronto Scarborough who has also comp
 * CSS
 
 ### What I'm learning now:
-* Vanilla JavaScript and ReactJS
+* Vanilla JavaScript
 * SQL
 * Microsoft Excel
 
