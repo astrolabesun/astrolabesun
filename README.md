@@ -24,11 +24,6 @@ I'm a recent graduate of the University of Toronto Scarborough who has also comp
 * HTML
 * CSS
 
-### What I'm learning now:
-* Vanilla JavaScript
-* SQL
-* Microsoft Excel
-
 ### Badges
 ![CodewarsBadge](https://www.codewars.com/users/Saskiase/badges/small)
 
