@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recent graduate of the University of Toronto Scarborough who has also completed a Coursera specialization in Cybersecurity. But my learning has not stopped there.
+I'm a graduate of the University of Toronto Scarborough who has also completed a Coursera specialization in Cybersecurity. But my learning has not stopped there. I am now pursuing the Google Data Analytics Professional Certificate on Coursera.
 
 ### What I've used:
 * Python
